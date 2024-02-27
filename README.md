@@ -1,4 +1,5 @@
-# QR-CODE-GENERATOR
+
+# QR-CODE-GENERATOR 
 
 This Python script generates a QR Code image from a provided URL .It utilizes the QR code and opens the website
 
