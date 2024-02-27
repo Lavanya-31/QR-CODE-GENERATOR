@@ -17,5 +17,7 @@ This Python script generates a QR Code image from a provided URL .It utilizes th
 
 3)Run the script
 
+## OUTPUT
+
 !![QRCode output ](https://github.com/Lavanya-31/QR-CODE-GENERATOR/assets/118906551/8805a965-3c18-4103-9105-b882ef31c54f)
 
